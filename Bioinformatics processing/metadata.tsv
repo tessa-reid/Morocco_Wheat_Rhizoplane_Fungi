@@ -1,0 +1,280 @@
+SampleID	UniqueID	Code	Niche	Region	Field_area
+BS61	B.BM.Ou1	BM1E1	Bulk_soil	Beni Mellal	Ouarmane
+BS62	B.BM.Ou2	BM1E2	Bulk_soil	Beni Mellal	Ouarmane
+BS63	B.BM.Ou3	BM1E3	Bulk_soil	Beni Mellal	Ouarmane
+BS64	B.BM.Ou4	BM1E4	Bulk_soil	Beni Mellal	Ouarmane
+BS65	B.BM.Ou5	BM1E5	Bulk_soil	Beni Mellal	Ouarmane
+BS66	B.BM.Af1	BM2E1	Bulk_soil	Beni Mellal	Afourer
+BS67	B.BM.Af2	BM2E2	Bulk_soil	Beni Mellal	Afourer
+BS68	B.BM.Af3	BM2E3	Bulk_soil	Beni Mellal	Afourer
+BS69	B.BM.Af4	BM2E4	Bulk_soil	Beni Mellal	Afourer
+BS70	B.BM.Af5	BM2E5	Bulk_soil	Beni Mellal	Afourer
+BS71	B.BM.SJ1	BM3E1	Bulk_soil	Beni Mellal	Sidi Jaber
+BS72	B.BM.SJ2	BM3E2	Bulk_soil	Beni Mellal	Sidi Jaber
+BS73	B.BM.SJ3	BM3E3	Bulk_soil	Beni Mellal	Sidi Jaber
+BS74	B.BM.SJ4	BM3E4	Bulk_soil	Beni Mellal	Sidi Jaber
+BS75	B.BM.SJ5	BM3E5	Bulk_soil	Beni Mellal	Sidi Jaber
+BS76	B.BM.BS1	BM4E1	Bulk_soil	Beni Mellal	Fkih Ben Salah
+BS77	B.BM.BS2	BM4E2	Bulk_soil	Beni Mellal	Fkih Ben Salah
+BS78	B.BM.BS3	BM4E3	Bulk_soil	Beni Mellal	Fkih Ben Salah
+BS79	B.BM.BS4	BM4E4	Bulk_soil	Beni Mellal	Fkih Ben Salah
+BS80	B.BM.BS5	BM4E5	Bulk_soil	Beni Mellal	Fkih Ben Salah
+BS81	B.Elj.Rd1	EJ1E1	Bulk_soil	El Jadida	Rdaidat
+BS82	B.Elj.Rd2	EJ1E2	Bulk_soil	El Jadida	Rdaidat
+BS83	B.Elj.Rd3	EJ1E3	Bulk_soil	El Jadida	Rdaidat
+BS84	B.Elj.Rd4	EJ1E4	Bulk_soil	El Jadida	Rdaidat
+BS85	B.Elj.Rd5	EJ1E5	Bulk_soil	El Jadida	Rdaidat
+BS86	B.Elj.OB1	EJ2E1	Bulk_soil	El Jadida	Oulad Bouaanane
+BS87	B.Elj.OB2	EJ2E2	Bulk_soil	El Jadida	Oulad Bouaanane
+BS88	B.Elj.OB3	EJ2E3	Bulk_soil	El Jadida	Oulad Bouaanane
+BS89	B.Elj.OB4	EJ2E4	Bulk_soil	El Jadida	Oulad Bouaanane
+BS90	B.Elj.OB5	EJ2E5	Bulk_soil	El Jadida	Oulad Bouaanane
+BS92	B.Elj.OS2	EJ3E2	Bulk_soil	El Jadida	Ouled saad
+BS93	B.Elj.OS3	EJ3E3	Bulk_soil	El Jadida	Ouled saad
+BS94	B.Elj.OS4	EJ3E4	Bulk_soil	El Jadida	Ouled saad
+BS95	B.Elj.OS5	EJ3E5	Bulk_soil	El Jadida	Ouled saad
+BS96	B.Elj.SM1	EJ4E1	Bulk_soil	El Jadida	Sidi Smail
+BS97	B.Elj.SM2	EJ4E2	Bulk_soil	El Jadida	Sidi Smail
+BS98	B.Elj.SM3	EJ4E3	Bulk_soil	El Jadida	Sidi Smail
+BS99	B.Elj.SM4	EJ4E4	Bulk_soil	El Jadida	Sidi Smail
+BS100	B.Elj.SM5	EJ4E5	Bulk_soil	El Jadida	Sidi Smail
+BS42	B.Me.AL2	ME1E2	Bulk_soil	Meknes	Ait Lhakour
+BS44	B.Me.AL4	ME1E4	Bulk_soil	Meknes	Ait Lhakour
+BS45	B.Me.AL5	ME1E5	Bulk_soil	Meknes	Ait Lhakour
+BS46	B.Me.Me1	ME2E1	Bulk_soil	Meknes	Meknes
+BS47	B.Me.Me2	ME2E2	Bulk_soil	Meknes	Meknes
+BS48	B.Me.Me3	ME2E3	Bulk_soil	Meknes	Meknes
+BS49	B.Me.Me4	ME2E4	Bulk_soil	Meknes	Meknes
+BS50	B.Me.Me5	ME2E5	Bulk_soil	Meknes	Meknes
+BS51	B.Me.AY1	ME3E1	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS52	B.Me.AY2	ME3E2	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS53	B.Me.AY3	ME3E3	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS54	B.Me.AY4	ME3E4	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS55	B.Me.AY5	ME3E5	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS56	B.Me.EB1	ME4E1	Bulk_soil	Meknes	El Borj
+BS57	B.Me.EB2	ME4E2	Bulk_soil	Meknes	El Borj
+BS58	B.Me.EB3	ME4E3	Bulk_soil	Meknes	El Borj
+BS59	B.Me.EB4	ME4E4	Bulk_soil	Meknes	El Borj
+BS60	B.Me.EB5	ME4E5	Bulk_soil	Meknes	El Borj
+BS1	B.Sa.EH1	SA1E1	Bulk_soil	Safi	El Haddada
+BS2	B.Sa.EH2	SA1E2	Bulk_soil	Safi	El Haddada
+BS3	B.Sa.EH3	SA1E3	Bulk_soil	Safi	El Haddada
+BS4	B.Sa.EH4	SA1E4	Bulk_soil	Safi	El Haddada
+BS5	B.Sa.EH5	SA1E5	Bulk_soil	Safi	El Haddada
+BS11	B.Sa.OH1	SA3E1	Bulk_soil	Safi	Ouled Hammou
+BS12	B.Sa.OH2	SA3E2	Bulk_soil	Safi	Ouled Hammou
+BS13	B.Sa.OH3	SA3E3	Bulk_soil	Safi	Ouled Hammou
+BS14	B.Sa.OH4	SA3E4	Bulk_soil	Safi	Ouled Hammou
+BS15	B.Sa.OH5	SA3E5	Bulk_soil	Safi	Ouled Hammou
+BS16	B.Sa.Bo1	SA4E1	Bulk_soil	Safi	Bouguedra
+BS17	B.Sa.Bo2	SA4E2	Bulk_soil	Safi	Bouguedra
+BS18	B.Sa.Bo3	SA4E3	Bulk_soil	Safi	Bouguedra
+BS19	B.Sa.Bo4	SA4E4	Bulk_soil	Safi	Bouguedra
+BS20	B.Sa.Bo5	SA4E5	Bulk_soil	Safi	Bouguedra
+RP61	P.BM.Ou1	BM1E1	Rhizoplane	Beni Mellal	Ouarmane
+RP62	P.BM.Ou2	BM1E2	Rhizoplane	Beni Mellal	Ouarmane
+RP63	P.BM.Ou3	BM1E3	Rhizoplane	Beni Mellal	Ouarmane
+RP64	P.BM.Ou4	BM1E4	Rhizoplane	Beni Mellal	Ouarmane
+RP65	P.BM.Ou5	BM1E5	Rhizoplane	Beni Mellal	Ouarmane
+RP66	P.BM.Af1	BM2E1	Rhizoplane	Beni Mellal	Afourer
+RP67	P.BM.Af2	BM2E2	Rhizoplane	Beni Mellal	Afourer
+RP68	P.BM.Af3	BM2E3	Rhizoplane	Beni Mellal	Afourer
+RP69	P.BM.Af4	BM2E4	Rhizoplane	Beni Mellal	Afourer
+RP70	P.BM.Af5	BM2E5	Rhizoplane	Beni Mellal	Afourer
+RP71	P.BM.SJ1	BM3E1	Rhizoplane	Beni Mellal	Sidi Jaber
+RP72	P.BM.SJ2	BM3E2	Rhizoplane	Beni Mellal	Sidi Jaber
+RP73	P.BM.SJ3	BM3E3	Rhizoplane	Beni Mellal	Sidi Jaber
+RP74	P.BM.SJ4	BM3E4	Rhizoplane	Beni Mellal	Sidi Jaber
+RP75	P.BM.SJ5	BM3E5	Rhizoplane	Beni Mellal	Sidi Jaber
+RP76	P.BM.BS1	BM4E1	Rhizoplane	Beni Mellal	Fkih Ben Salah
+RP77	P.BM.BS2	BM4E2	Rhizoplane	Beni Mellal	Fkih Ben Salah
+RP78	P.BM.BS3	BM4E3	Rhizoplane	Beni Mellal	Fkih Ben Salah
+RP79	P.BM.BS4	BM4E4	Rhizoplane	Beni Mellal	Fkih Ben Salah
+RP80	P.BM.BS5	BM4E5	Rhizoplane	Beni Mellal	Fkih Ben Salah
+RP81	P.Elj.Rd1	EJ1E1	Rhizoplane	El Jadida	Rdaidat
+RP82	P.Elj.Rd2	EJ1E2	Rhizoplane	El Jadida	Rdaidat
+RP83	P.Elj.Rd3	EJ1E3	Rhizoplane	El Jadida	Rdaidat
+RP84	P.Elj.Rd4	EJ1E4	Rhizoplane	El Jadida	Rdaidat
+RP85	P.Elj.Rd5	EJ1E5	Rhizoplane	El Jadida	Rdaidat
+RP86	P.Elj.OB1	EJ2E1	Rhizoplane	El Jadida	Oulad Bouaanane
+RP87	P.Elj.OB2	EJ2E2	Rhizoplane	El Jadida	Oulad Bouaanane
+RP88	P.Elj.OB3	EJ2E3	Rhizoplane	El Jadida	Oulad Bouaanane
+RP89	P.Elj.OB4	EJ2E4	Rhizoplane	El Jadida	Oulad Bouaanane
+RP90	P.Elj.OB5	EJ2E5	Rhizoplane	El Jadida	Oulad Bouaanane
+RP91	P.Elj.OS1	EJ3E1	Rhizoplane	El Jadida	Ouled saad
+RP92	P.Elj.OS2	EJ3E2	Rhizoplane	El Jadida	Ouled saad
+RP93	P.Elj.OS3	EJ3E3	Rhizoplane	El Jadida	Ouled saad
+RP94	P.Elj.OS4	EJ3E4	Rhizoplane	El Jadida	Ouled saad
+RP95	P.Elj.OS5	EJ3E5	Rhizoplane	El Jadida	Ouled saad
+RP96	P.Elj.SM1	EJ4E1	Rhizoplane	El Jadida	Sidi Smail
+RP97	P.Elj.SM2	EJ4E2	Rhizoplane	El Jadida	Sidi Smail
+RP98	P.Elj.SM3	EJ4E3	Rhizoplane	El Jadida	Sidi Smail
+RP99	P.Elj.SM4	EJ4E4	Rhizoplane	El Jadida	Sidi Smail
+RP100	P.Elj.SM5	EJ4E5	Rhizoplane	El Jadida	Sidi Smail
+RP41	P.Me.AL1	ME1E1	Rhizoplane	Meknes	Ait Lhakour
+RP42	P.Me.AL2	ME1E2	Rhizoplane	Meknes	Ait Lhakour
+RP43	P.Me.AL3	ME1E3	Rhizoplane	Meknes	Ait Lhakour
+RP44	P.Me.AL4	ME1E4	Rhizoplane	Meknes	Ait Lhakour
+RP45	P.Me.AL5	ME1E5	Rhizoplane	Meknes	Ait Lhakour
+RP46	P.Me.Me1	ME2E1	Rhizoplane	Meknes	Meknes
+RP47	P.Me.Me2	ME2E2	Rhizoplane	Meknes	Meknes
+RP48	P.Me.Me3	ME2E3	Rhizoplane	Meknes	Meknes
+RP49	P.Me.Me4	ME2E4	Rhizoplane	Meknes	Meknes
+RP50	P.Me.Me5	ME2E5	Rhizoplane	Meknes	Meknes
+RP51	P.Me.AY1	ME3E1	Rhizoplane	Meknes	Ait Yahya ou Hassine
+RP52	P.Me.AY2	ME3E2	Rhizoplane	Meknes	Ait Yahya ou Hassine
+RP53	P.Me.AY3	ME3E3	Rhizoplane	Meknes	Ait Yahya ou Hassine
+RP54	P.Me.AY4	ME3E4	Rhizoplane	Meknes	Ait Yahya ou Hassine
+RP55	P.Me.AY5	ME3E5	Rhizoplane	Meknes	Ait Yahya ou Hassine
+RP56	P.Me.EB1	ME4E1	Rhizoplane	Meknes	El Borj
+RP57	P.Me.EB2	ME4E2	Rhizoplane	Meknes	El Borj
+RP58	P.Me.EB3	ME4E3	Rhizoplane	Meknes	El Borj
+RP59	P.Me.EB4	ME4E4	Rhizoplane	Meknes	El Borj
+RP60	P.Me.EB5	ME4E5	Rhizoplane	Meknes	El Borj
+RP1	P.Sa.EH1	SA1E1	Rhizoplane	Safi	El Haddada
+RP2	P.Sa.EH2	SA1E2	Rhizoplane	Safi	El Haddada
+RP3	P.Sa.EH3	SA1E3	Rhizoplane	Safi	El Haddada
+RP4	P.Sa.EH4	SA1E4	Rhizoplane	Safi	El Haddada
+RP5	P.Sa.EH5	SA1E5	Rhizoplane	Safi	El Haddada
+RP11	P.Sa.OH1	SA3E1	Rhizoplane	Safi	Ouled Hammou
+RP12	P.Sa.OH2	SA3E2	Rhizoplane	Safi	Ouled Hammou
+RP13	P.Sa.OH3	SA3E3	Rhizoplane	Safi	Ouled Hammou
+RP14	P.Sa.OH4	SA3E4	Rhizoplane	Safi	Ouled Hammou
+RP15	P.Sa.OH5	SA3E5	Rhizoplane	Safi	Ouled Hammou
+RP16	P.Sa.Bo1	SA4E1	Rhizoplane	Safi	Bouguedra
+RP17	P.Sa.Bo2	SA4E2	Rhizoplane	Safi	Bouguedra
+RP18	P.Sa.Bo3	SA4E3	Rhizoplane	Safi	Bouguedra
+RP19	P.Sa.Bo4	SA4E4	Rhizoplane	Safi	Bouguedra
+RP20	P.Sa.Bo5	SA4E5	Rhizoplane	Safi	Bouguedra
+RP21	P.Ak.Lo1	AK1E1	Rhizoplane	Azilal	Lounasda
+RP22	P.Ak.Lo2	AK1E2	Rhizoplane	Azilal	Lounasda
+RP23	P.Ak.Lo3	AK1E3	Rhizoplane	Azilal	Lounasda
+RP24	P.Ak.Lo4	AK1E4	Rhizoplane	Azilal	Lounasda
+RP25	P.Ak.Lo5	AK1E5	Rhizoplane	Azilal	Lounasda
+RP26	P.Ak.Za1	AK2E1	Rhizoplane	Azilal	Zalgane
+RP27	P.Ak.Za2	AK2E2	Rhizoplane	Azilal	Zalgane
+RP28	P.Ak.Za3	AK2E3	Rhizoplane	Azilal	Zalgane
+RP29	P.Ak.Za4	AK2E4	Rhizoplane	Azilal	Zalgane
+RP30	P.Ak.Za5	AK2E5	Rhizoplane	Azilal	Zalgane
+RP31	P.Ak.Ma1	AK3E1	Rhizoplane	Azilal	Maskaoun
+RP32	P.Ak.Ma2	AK3E2	Rhizoplane	Azilal	Maskaoun
+RP33	P.Ak.Ma3	AK3E3	Rhizoplane	Azilal	Maskaoun
+RP34	P.Ak.Ma4	AK3E4	Rhizoplane	Azilal	Maskaoun
+RP35	P.Ak.Ma5	AK3E5	Rhizoplane	Azilal	Maskaoun
+RP36	P.Ak.Ed1	AK4E1	Rhizoplane	Azilal	Eddachra
+RP37	P.Ak.Ed2	AK4E2	Rhizoplane	Azilal	Eddachra
+RP38	P.Ak.Ed3	AK4E3	Rhizoplane	Azilal	Eddachra
+RP39	P.Ak.Ed4	AK4E4	Rhizoplane	Azilal	Eddachra
+RP40	P.Ak.Ed5	AK4E5	Rhizoplane	Azilal	Eddachra
+RP101	P.St.KC1	ST1E1	Rhizoplane	Settat	Khemisset chaouia
+RP102	P.St.KC2	ST1E2	Rhizoplane	Settat	Khemisset chaouia
+RP103	P.St.KC3	ST1E3	Rhizoplane	Settat	Khemisset chaouia
+RP104	P.St.KC4	ST1E4	Rhizoplane	Settat	Khemisset chaouia
+RP105	P.St.KC5	ST1E5	Rhizoplane	Settat	Khemisset chaouia
+RP106	P.St.Zo1	ST2E1	Rhizoplane	Settat	Zokach
+RP107	P.St.Zo2	ST2E2	Rhizoplane	Settat	Zokach
+RP108	P.St.Zo3	ST2E3	Rhizoplane	Settat	Zokach
+RP109	P.St.Zo4	ST2E4	Rhizoplane	Settat	Zokach
+RP110	P.St.Zo5	ST2E5	Rhizoplane	Settat	Zokach
+RP111	P.St.OA1	ST3E1	Rhizoplane	Settat	Foqra Ouled Ameur
+RP112	P.St.OA2	ST3E2	Rhizoplane	Settat	Foqra Ouled Ameur
+RP113	P.St.OA3	ST3E3	Rhizoplane	Settat	Foqra Ouled Ameur
+RP114	P.St.OA4	ST3E4	Rhizoplane	Settat	Foqra Ouled Ameur
+RP115	P.St.OA5	ST3E5	Rhizoplane	Settat	Foqra Ouled Ameur
+RP116	P.St.OF1	ST4E1	Rhizoplane	Settat	Ouled Fdel
+RP117	P.St.OF2	ST4E2	Rhizoplane	Settat	Ouled Fdel
+RP118	P.St.OF3	ST4E3	Rhizoplane	Settat	Ouled Fdel
+RP119	P.St.OF4	ST4E4	Rhizoplane	Settat	Ouled Fdel
+RP120	P.St.OF5	ST4E5	Rhizoplane	Settat	Ouled Fdel
+RP121	P.SK.SL1	SK1E1	Rhizoplane	Sidi Kacem	Sidi Slimane
+RP122	P.SK.SL2	SK1E2	Rhizoplane	Sidi Kacem	Sidi Slimane
+RP123	P.SK.SL3	SK1E3	Rhizoplane	Sidi Kacem	Sidi Slimane
+RP124	P.SK.SL4	SK1E4	Rhizoplane	Sidi Kacem	Sidi Slimane
+RP125	P.SK.SL5	SK1E5	Rhizoplane	Sidi Kacem	Sidi Slimane
+RP126	P.SK.SK1	SK2E1	Rhizoplane	Sidi Kacem	Sidi Kacem
+RP127	P.SK.SK2	SK2E2	Rhizoplane	Sidi Kacem	Sidi Kacem
+RP128	P.SK.SK3	SK2E3	Rhizoplane	Sidi Kacem	Sidi Kacem
+RP129	P.SK.SK4	SK2E4	Rhizoplane	Sidi Kacem	Sidi Kacem
+RP130	P.SK.SK5	SK2E5	Rhizoplane	Sidi Kacem	Sidi Kacem
+RP131	P.SK.DL1	SK3E1	Rhizoplane	Sidi Kacem	Douar Laaouinatt
+RP132	P.SK.DL2	SK3E2	Rhizoplane	Sidi Kacem	Douar Laaouinatt
+RP133	P.SK.DL3	SK3E3	Rhizoplane	Sidi Kacem	Douar Laaouinatt
+RP134	P.SK.DL4	SK3E4	Rhizoplane	Sidi Kacem	Douar Laaouinatt
+RP135	P.SK.DL5	SK3E5	Rhizoplane	Sidi Kacem	Douar Laaouinatt
+RP136	P.SK.OR1	SK4E1	Rhizoplane	Sidi Kacem	Labehalil Oued Rommane
+RP137	P.SK.OR2	SK4E2	Rhizoplane	Sidi Kacem	Labehalil Oued Rommane
+RP138	P.SK.OR3	SK4E3	Rhizoplane	Sidi Kacem	Labehalil Oued Rommane
+RP139	P.SK.OR4	SK4E4	Rhizoplane	Sidi Kacem	Labehalil Oued Rommane
+RP140	P.SK.OR5	SK4E5	Rhizoplane	Sidi Kacem	Labehalil Oued Rommane
+BS22	B.Ak.Lo2	AK1E2	Bulk_soil	Azilal	Lounasda
+BS23	B.Ak.Lo3	AK1E3	Bulk_soil	Azilal	Lounasda
+BS24	B.Ak.Lo4	AK1E4	Bulk_soil	Azilal	Lounasda
+BS25	B.Ak.Lo5	AK1E5	Bulk_soil	Azilal	Lounasda
+BS26	B.Ak.Za1	AK2E1	Bulk_soil	Azilal	Zalgane
+BS27	B.Ak.Za2	AK2E2	Bulk_soil	Azilal	Zalgane
+BS28	B.Ak.Za3	AK2E3	Bulk_soil	Azilal	Zalgane
+BS29	B.Ak.Za4	AK2E4	Bulk_soil	Azilal	Zalgane
+BS30	B.Ak.Za5	AK2E5	Bulk_soil	Azilal	Zalgane
+BS34	B.Ak.Ma4	AK3E4	Bulk_soil	Azilal	Maskaoun
+BS35	B.Ak.Ma5	AK3E5	Bulk_soil	Azilal	Maskaoun
+BS36	B.Ak.Ed1	AK4E1	Bulk_soil	Azilal	Eddachra
+BS37	B.Ak.Ed2	AK4E2	Bulk_soil	Azilal	Eddachra
+BS38	B.Ak.Ed3	AK4E3	Bulk_soil	Azilal	Eddachra
+BS39	B.Ak.Ed4	AK4E4	Bulk_soil	Azilal	Eddachra
+BS40	B.Ak.Ed5	AK4E5	Bulk_soil	Azilal	Eddachra
+BS101	B.St.KC1	ST1E1	Bulk_soil	Settat	Khemisset chaouia
+BS102	B.St.KC2	ST1E2	Bulk_soil	Settat	Khemisset chaouia
+BS103	B.St.KC3	ST1E3	Bulk_soil	Settat	Khemisset chaouia
+BS104	B.St.KC4	ST1E4	Bulk_soil	Settat	Khemisset chaouia
+BS105	B.St.KC5	ST1E5	Bulk_soil	Settat	Khemisset chaouia
+BS106	B.St.Zo1	ST2E1	Bulk_soil	Settat	Zokach
+BS107	B.St.Zo2	ST2E2	Bulk_soil	Settat	Zokach
+BS108	B.St.Zo3	ST2E3	Bulk_soil	Settat	Zokach
+BS109	B.St.Zo4	ST2E4	Bulk_soil	Settat	Zokach
+BS110	B.St.Zo5	ST2E5	Bulk_soil	Settat	Zokach
+BS111	B.St.OA1	ST3E1	Bulk_soil	Settat	Foqra Ouled Ameur
+BS112	B.St.OA2	ST3E2	Bulk_soil	Settat	Foqra Ouled Ameur
+BS113	B.St.OA3	ST3E3	Bulk_soil	Settat	Foqra Ouled Ameur
+BS114	B.St.OA4	ST3E4	Bulk_soil	Settat	Foqra Ouled Ameur
+BS115	B.St.OA5	ST3E5	Bulk_soil	Settat	Foqra Ouled Ameur
+BS116	B.St.OF1	ST4E1	Bulk_soil	Settat	Ouled Fdel
+BS117	B.St.OF2	ST4E2	Bulk_soil	Settat	Ouled Fdel
+BS118	B.St.OF3	ST4E3	Bulk_soil	Settat	Ouled Fdel
+BS119	B.St.OF4	ST4E4	Bulk_soil	Settat	Ouled Fdel
+BS120	B.St.OF5	ST4E5	Bulk_soil	Settat	Ouled Fdel
+BS121	B.SK.SL1	SK1E1	Bulk_soil	Sidi Kacem	Sidi Slimane
+BS122	B.SK.SL2	SK1E2	Bulk_soil	Sidi Kacem	Sidi Slimane
+BS123	B.SK.SL3	SK1E3	Bulk_soil	Sidi Kacem	Sidi Slimane
+BS124	B.SK.SL4	SK1E4	Bulk_soil	Sidi Kacem	Sidi Slimane
+BS125	B.SK.SL5	SK1E5	Bulk_soil	Sidi Kacem	Sidi Slimane
+BS126	B.SK.SK1	SK2E1	Bulk_soil	Sidi Kacem	Sidi Kacem
+BS127	B.SK.SK2	SK2E2	Bulk_soil	Sidi Kacem	Sidi Kacem
+BS128	B.SK.SK3	SK2E3	Bulk_soil	Sidi Kacem	Sidi Kacem
+BS130	B.SK.SK5	SK2E5	Bulk_soil	Sidi Kacem	Sidi Kacem
+BS131	B.SK.DL1	SK3E1	Bulk_soil	Sidi Kacem	Douar Laaouinatt
+BS132	B.SK.DL2	SK3E2	Bulk_soil	Sidi Kacem	Douar Laaouinatt
+BS133	B.SK.DL3	SK3E3	Bulk_soil	Sidi Kacem	Douar Laaouinatt
+BS134	B.SK.DL4	SK3E4	Bulk_soil	Sidi Kacem	Douar Laaouinatt
+BS135	B.SK.DL5	SK3E5	Bulk_soil	Sidi Kacem	Douar Laaouinatt
+BS136	B.SK.OR1	SK4E1	Bulk_soil	Sidi Kacem	Labehalil Oued Rommane
+BS137	B.SK.OR2	SK4E2	Bulk_soil	Sidi Kacem	Labehalil Oued Rommane
+BS138	B.SK.OR3	SK4E3	Bulk_soil	Sidi Kacem	Labehalil Oued Rommane
+BS139	B.SK.OR4	SK4E4	Bulk_soil	Sidi Kacem	Labehalil Oued Rommane
+BS140	B.SK.OR5	SK4E5	Bulk_soil	Sidi Kacem	Labehalil Oued Rommane
+BS422	B.Me.AL2	ME1E2	Bulk_soil	Meknes	Ait Lhakour
+BS442	B.Me.AL4	ME1E4	Bulk_soil	Meknes	Ait Lhakour
+BS452	B.Me.AL5	ME1E5	Bulk_soil	Meknes	Ait Lhakour
+BS462	B.Me.Me1	ME2E1	Bulk_soil	Meknes	Meknes
+BS472	B.Me.Me2	ME2E2	Bulk_soil	Meknes	Meknes
+BS482	B.Me.Me3	ME2E3	Bulk_soil	Meknes	Meknes
+BS492	B.Me.Me4	ME2E4	Bulk_soil	Meknes	Meknes
+BS502	B.Me.Me5	ME2E5	Bulk_soil	Meknes	Meknes
+BS512	B.Me.AY1	ME3E1	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS522	B.Me.AY2	ME3E2	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS542	B.Me.AY4	ME3E4	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS552	B.Me.AY5	ME3E5	Bulk_soil	Meknes	Ait Yahya ou Hassine
+BS562	B.Me.EB1	ME4E1	Bulk_soil	Meknes	El Borj
+BS572	B.Me.EB2	ME4E2	Bulk_soil	Meknes	El Borj
+BS582	B.Me.EB3	ME4E3	Bulk_soil	Meknes	El Borj
+BS592	B.Me.EB4	ME4E4	Bulk_soil	Meknes	El Borj
+BS602	B.Me.EB5	ME4E5	Bulk_soil	Meknes	El Borj
