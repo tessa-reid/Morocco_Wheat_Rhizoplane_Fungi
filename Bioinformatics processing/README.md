@@ -1,5 +1,5 @@
 ---
-title: "Benbrik et al., 2024 - Code for bioinformatic analysis"
+title: "Benbrik et al., 2025 - Code for bioinformatic analysis"
 author: "Tessa Reid"
 date: "22/08/2023"
 ---
@@ -19,7 +19,7 @@ qiime tools import \
     --output-path demux-single-end.qza
 ```
 
-## Visualize and verify sequence quality (total number of sequences = 17 632 126). Open qzv file on Qiime2View online
+## Visualize and verify sequence quality. Open qzv file on Qiime2View online
 ```{r}
 qiime demux summarize \
     --i-data demux-single-end.qza \
@@ -27,7 +27,7 @@ qiime demux summarize \
 ```
 
 
-## Sequence Denoising with DADA2 (after DADA2, number of ASVs = 25 903 and total number of sequences = 16 666 304)
+## Sequence Denoising with DADA2
 ```{r}
 qiime dada2 denoise-single \
     --i-demultiplexed-seqs demux-single-end.qza \
@@ -69,7 +69,7 @@ qiime feature-table filter-seqs \
     --o-filtered-data rep-seqs-filtered.qza
 ```
 
-## Visualize the outputs in Qiime2View online (after filtering, number of ASVs = 10 511 and total number of sequences = 16 603 395)
+## Visualize the outputs in Qiime2View online
 ```{r}
 qiime feature-table summarize \
     --i-table table-filtered.qza \
