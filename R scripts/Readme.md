@@ -1,6 +1,6 @@
 # R Scripts for Analysis and Figure Preparation
 
-This repository contains R scripts used for the analysis and preparation of figures 3, 4, figure S2, table S2, for the research conducted in Benbrik et al., 2025.
+This repository contains R scripts used for the analysis and preparation of Fig. 3, Fig. 4, Fig. S2, and Table S2 from the research conducted in Benbrik et al., 2025.
 
 ## Contents
 
